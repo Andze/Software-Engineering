@@ -10,16 +10,16 @@
 ## Shortlist
 
 * [Doge Coin](https://github.com/dogecoin/dogecoin "Doge Coin") XX
-* [Mumble](https://github.com/mumble-voip/mumble "Mumble") XX
+* [Mumble](https://github.com/mumble-voip/mumble "Mumble") XXX
 * [RaspberryPi Tools](https://github.com/raspberrypi/tools "RaspberryPi Tools") X
-* [Cuberite](https://github.com/cuberite/cuberite "Cuberite") X
-* [PCSX2 Emulator](https://github.com/PCSX2/pcsx2 "PCSX2  Emulator") X
-* [Serious Engine](https://github.com/Croteam-official/Serious-Engine "Serious Engine") XX
-* [Xenia (360 Emulator)](https://github.com/benvanik/xenia "Xenia (360 Emulator)") XX
-* [Torque3D](https://github.com/GarageGames/Torque3D "Torque3D") X
-* [Source Engine](https://github.com/ValveSoftware/source-sdk-2013 "Source Engine") XX
+* [Cuberite](https://github.com/cuberite/cuberite "Cuberite") XX
+* [PCSX2 Emulator](https://github.com/PCSX2/pcsx2 "PCSX2  Emulator") XX
+* [Serious Engine](https://github.com/Croteam-official/Serious-Engine "Serious Engine") XXX
+* [Xenia (360 Emulator)](https://github.com/benvanik/xenia "Xenia (360 Emulator)") XXX
+* [Torque3D](https://github.com/GarageGames/Torque3D "Torque3D") XX
+* [Source Engine](https://github.com/ValveSoftware/source-sdk-2013 "Source Engine") XXX
 * [Cry Engine](https://github.com/CRYTEK-CRYENGINE/CRYENGINE "Cry Engine") X
-* [DOOM3 Engine](https://github.com/id-Software/DOOM-3-BFG "DOOM3 Engine") XX
-* [Starfall (Ashley)](https://github.com/INPStarfall/Starfall/issues "Starfall (Ashley)") X
-* [SFML](https://github.com/SFML/SFML "SFML") XX
+* [DOOM3 Engine](https://github.com/id-Software/DOOM-3-BFG "DOOM3 Engine") XXX
+* [Starfall (Ashley)](https://github.com/INPStarfall/Starfall/issues "Starfall (Ashley)") XX
+* [SFML](https://github.com/SFML/SFML "SFML") XXX
 * [Mondo Projects](https://github.com/rdingwall/awesome-monzo "Mondo Projects")
