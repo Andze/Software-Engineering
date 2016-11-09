@@ -9,4 +9,6 @@
 
 ## Project Repository
 
-* [Electron](https://github.com/electron/electron "Electron Repository") 
+* [Electron](https://github.com/electron/electron "Electron Repository")
+* [Issue Keyboard Shortcuts](https://github.com/electron/electron/issues/7517)
+* [Issue Printing Errors](https://github.com/electron/electron/issues/7078)
